@@ -1,13 +1,13 @@
 body {
     width: 100%;
     margin: 30px;
-    background-color: rgb(180, 123, 48);
+    background-color: rgb(7, 58, 82);
  }
   
  #profile-container{
     max-width: 300px;
-    background-color: white;
-    border: 1px solid gray;
+    background-color: rgb(90, 33, 33);
+    border: 1px solid rgb(105, 107, 10);
     border-radius: 6px;
  }
   
